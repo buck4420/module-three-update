@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-.navbar-brand h1{
+.navbar-brand a {
   font-size:25px;
   color:black;
   margin-top:-5px;
@@ -16,9 +16,12 @@ body {
   overflow:scroll;
 }
 
+
+
 p.text-center {
   font-family: 'Roboto', sans-serif;
   font-size:50px;
+  margin-top: 90px;
 }
 
 h3 {
